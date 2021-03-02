@@ -4,3 +4,8 @@ body{
     flex-wrap: wrap;
     font-family: Calibri;
 }
+.mediacenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
